@@ -21,5 +21,5 @@ A simple web application that allows users to search for any country and view ke
 - JavaScript (ES6)
 - [REST Countries API](https://restcountries.com/)
 
-## 🚀 Getting Started
+
 
