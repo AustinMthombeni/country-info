@@ -98,13 +98,18 @@ document.addEventListener("DOMContentLoaded",function(){
 
     function handleBorderFlags(borderCountryInfo) {
     let flagSection = document.getElementById("bordering-countries");
+    let bordersHeading = document.getElementById("borders-heading");
 
   
     if (!flagSection) {
         flagSection = document.createElement("section");
         flagSection.id = "bordering-countries";
         document.body.appendChild(flagSection);
-        let bordersHeading = document.createElement("h4");
+        
+    }
+    if (!bordersHeading) {
+        bordersHeading = document.createElement("h4");
+        bordersHeading.id = "borders-heading"
         bordersHeading.innerHTML = "Bordering countries: "
         flagSection.appendChild(bordersHeading)
     }
