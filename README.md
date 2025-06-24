@@ -19,6 +19,10 @@ A simple web application that allows users to search for any country and view ke
 - HTML
 - CSS
 - JavaScript
+## 🚀 Deployment
 
+This project is deployed on **Azure Static Web Apps**.
+
+> Click [here](https://green-coast-03db8b01e.1.azurestaticapps.net/) to access it.
 
 
