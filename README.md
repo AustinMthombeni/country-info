@@ -16,10 +16,9 @@ A simple web application that allows users to search for any country and view ke
 
 ## 📦 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- [REST Countries API](https://restcountries.com/)
+- HTML
+- CSS
+- JavaScript
 
 
 
